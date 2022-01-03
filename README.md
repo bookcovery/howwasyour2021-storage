@@ -10,7 +10,7 @@
 
 ### Tistory
 - [x] [2021년 회고―, 성찰/정상우](https://pronist.tistory.com/159)
-
+- [x] [2021년 CTO 회고/향로](https://jojoldu.tistory.com/626)
 
 ### Velog
 - [x] [1년차 주니어 프론트 개발자 이직 후기/ohaeseong](https://velog.io/@ohaeseong/1%EB%85%84%EC%B0%A8-%EC%A3%BC%EB%8B%88%EC%96%B4-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81-%ED%9B%84%EA%B8%B0)
