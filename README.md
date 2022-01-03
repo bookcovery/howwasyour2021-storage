@@ -1,6 +1,10 @@
-# howwasyour2021-storage
+<p align="center" style="color: #343a40">
+  <img src="https://user-images.githubusercontent.com/9082598/147968108-7bdfa706-e1cc-44db-b54b-c44f65de2e33.jpg" alt="logo" height="160px">
+  <h1 align="center">howwasyour2021 Storage</h1>
+</p>
+<p align="center" style="font-size: 1.2rem;">2021년 회고 저장소입니다</p>
 
-[howwasyour2021.com](https://howwasyour2021.com)
+> 2021년 회고를 보고싶다면 🚀 [howwasyour2021.com](https://howwasyour2021.com)
 
 
 ### Medium
