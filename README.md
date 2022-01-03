@@ -3,7 +3,7 @@
 
 ### Medium
 - [x] [2021년을 돌아보며/조은, John Cho](https://euncho.medium.com/2021%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0-58c1bf88b44b)
-- [ ] [2021 회고/Bora Lee](https://violetboralee.medium.com/2021-%ED%9A%8C%EA%B3%A0-20616cec9f2d?p=20616cec9f2d)
+- [x] [2021 회고/Bora Lee](https://violetboralee.medium.com/2021-%ED%9A%8C%EA%B3%A0-20616cec9f2d?p=20616cec9f2d)
 
 
 ### Tistory
@@ -18,7 +18,7 @@
 - [x] [2021년 회고/janeljs](https://velog.io/@janeljs/2021%EB%85%84-%ED%9A%8C%EA%B3%A0)
 
 ### Blog 
-- [ ] [2021년 회고/John Grib](https://johngrib.github.io/wiki/review/2021/)
-- [ ] [2021년 회고/asbubam](https://blog.2dal.com/2021/12/29/2021%eb%85%84-%ed%9a%8c%ea%b3%a0/)
-- [ ] [커리어의 첫 장을 넘기며/Hyeseong Kim](https://blog.cometkim.kr/posts/the-first-page-of-my-career/)
-- [ ] [복학생 개발자의 2021년 회고/재그지그](https://wormwlrm.github.io/2021/12/29/2021-Retrospect.html)
+- [x] [2021년 회고/John Grib](https://johngrib.github.io/wiki/review/2021/)
+- [x] [2021년 회고/asbubam](https://blog.2dal.com/2021/12/29/2021%eb%85%84-%ed%9a%8c%ea%b3%a0/)
+- [x] [커리어의 첫 장을 넘기며/Hyeseong Kim](https://blog.cometkim.kr/posts/the-first-page-of-my-career/)
+- [] [복학생 개발자의 2021년 회고/재그지그](https://wormwlrm.github.io/2021/12/29/2021-Retrospect.html)
