@@ -18,7 +18,7 @@
 - [x] [2021년 회고/janeljs](https://velog.io/@janeljs/2021%EB%85%84-%ED%9A%8C%EA%B3%A0)
 
 ### Blog 
-- [ ] [2021년 회고](https://johngrib.github.io/wiki/review/2021/)
-- [ ] [2021년 회고](https://blog.2dal.com/2021/12/29/2021%eb%85%84-%ed%9a%8c%ea%b3%a0/)
-- [ ] [커리어의 첫 장을 넘기며](https://blog.cometkim.kr/posts/the-first-page-of-my-career/)
-- [ ] [복학생 개발자의 2021년 회고](https://wormwlrm.github.io/2021/12/29/2021-Retrospect.html)
+- [ ] [2021년 회고/John Grib](https://johngrib.github.io/wiki/review/2021/)
+- [ ] [2021년 회고/asbubam](https://blog.2dal.com/2021/12/29/2021%eb%85%84-%ed%9a%8c%ea%b3%a0/)
+- [ ] [커리어의 첫 장을 넘기며/Hyeseong Kim](https://blog.cometkim.kr/posts/the-first-page-of-my-career/)
+- [ ] [복학생 개발자의 2021년 회고/재그지그](https://wormwlrm.github.io/2021/12/29/2021-Retrospect.html)
