@@ -1,5 +1,7 @@
 # howwasyour2021-storage
 
+[howwasyour2021.com](https://howwasyour2021.com)
+
 
 ### Medium
 - [x] [2021년을 돌아보며/조은, John Cho](https://euncho.medium.com/2021%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0-58c1bf88b44b)
