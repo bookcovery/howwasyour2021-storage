@@ -25,6 +25,11 @@
 - [x] [1년차 개발자 2021년 회고 - 개발 & 일상 그리고 감사/minyul](https://velog.io/@minyul/2021%EB%85%84-%ED%9A%8C%EA%B3%A0)
 - [x] [2021년 회고/janeljs](https://velog.io/@janeljs/2021%EB%85%84-%ED%9A%8C%EA%B3%A0)
 
+### Brunch
+- [x] [흑호의 해, 더 성장하기 위한 21년 회고/FameLee](https://brunch.co.kr/@famelee/51)
+- [x] [퇴사 1년,N잡으로 얼마를 벌었고 얼마나 만족하는가?/일재미](https://brunch.co.kr/@dailylifefun/27)
+- [x] [보고 생각하고 기록하다/김지윤](https://brunch.co.kr/@outlines/60)
+
 ### Blog 
 - [x] [2021년 회고/John Grib](https://johngrib.github.io/wiki/review/2021/)
 - [x] [2021년 회고/asbubam](https://blog.2dal.com/2021/12/29/2021%eb%85%84-%ed%9a%8c%ea%b3%a0/)
