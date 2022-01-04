@@ -28,3 +28,7 @@
 - [x] [2021년 회고/asbubam](https://blog.2dal.com/2021/12/29/2021%eb%85%84-%ed%9a%8c%ea%b3%a0/)
 - [x] [커리어의 첫 장을 넘기며/Hyeseong Kim](https://blog.cometkim.kr/posts/the-first-page-of-my-career/)
 - [x] [복학생 개발자의 2021년 회고/재그지그](https://wormwlrm.github.io/2021/12/29/2021-Retrospect.html)
+- [x] [2021년 회고/Outsider](https://blog.outsider.ne.kr/1575)
+- [x] [주니어 개발자의 2021년 회고/개발자 황준일](https://junilhwang.github.io/TIL/Review/2021-year/end/)
+- [x] [2021년 회고/SOOHWAN KIM](https://sooftware.io/2021)
+- [x] [2021년 회고 (부제: 셀프 인터뷰)/Jaeyeon Baek](https://jybaek.tistory.com/945)
