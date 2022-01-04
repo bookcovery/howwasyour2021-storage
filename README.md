@@ -15,6 +15,7 @@
 ### Tistory
 - [x] [2021년 회고―, 성찰/정상우](https://pronist.tistory.com/159)
 - [x] [2021년 CTO 회고/향로](https://jojoldu.tistory.com/626)
+- [x] [2021년 회고 (부제: 셀프 인터뷰)/Jaeyeon Baek](https://jybaek.tistory.com/945)
 - [x] [Adios 2021/DevOwen](https://devowen.com/433)
 
 ### Velog
@@ -32,5 +33,4 @@
 - [x] [2021년 회고/Outsider](https://blog.outsider.ne.kr/1575)
 - [x] [주니어 개발자의 2021년 회고/개발자 황준일](https://junilhwang.github.io/TIL/Review/2021-year/end/)
 - [x] [2021년 회고/SOOHWAN KIM](https://sooftware.io/2021)
-- [x] [2021년 회고 (부제: 셀프 인터뷰)/Jaeyeon Baek](https://jybaek.tistory.com/945)
 - [x] [체대 출신 개발자의 2021년 회고/Integerous](https://ryan-han.com/post/memoirs/memoirs2021/)
