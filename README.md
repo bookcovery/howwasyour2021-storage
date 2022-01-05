@@ -10,6 +10,8 @@
 ### Medium
 - [x] [2021년을 돌아보며/조은, John Cho](https://euncho.medium.com/2021%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0-58c1bf88b44b)
 - [x] [2021 회고/Bora Lee](https://violetboralee.medium.com/2021-%ED%9A%8C%EA%B3%A0-20616cec9f2d?p=20616cec9f2d)
+- [x] [21년을 시작하며 2020년 & 경력 3년 3개월짜리의 회고록](https://geniusk.medium.com/21%EB%85%84%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0-2020%EB%85%84-%EA%B2%BD%EB%A0%A5-3%EB%85%84-3%EA%B0%9C%EC%9B%94%EC%A7%9C%EB%A6%AC%EC%9D%98-%ED%9A%8C%EA%B3%A0%EB%A1%9D-3e5cca831a48)
+- [x] [Y2021 개인 회고](https://mjspring.medium.com/y2021-%EA%B0%9C%EC%9D%B8-%ED%9A%8C%EA%B3%A0-5fae6b8d6077?p=5fae6b8d6077)
 
 
 ### Tistory
