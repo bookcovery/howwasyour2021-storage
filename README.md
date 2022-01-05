@@ -11,8 +11,11 @@
 - [x] [2021년을 돌아보며/조은, John Cho](https://euncho.medium.com/2021%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0-58c1bf88b44b)
 - [x] [2021 회고/Bora Lee](https://violetboralee.medium.com/2021-%ED%9A%8C%EA%B3%A0-20616cec9f2d?p=20616cec9f2d)
 - [x] [21년을 시작하며 2020년 & 경력 3년 3개월짜리의 회고록](https://geniusk.medium.com/21%EB%85%84%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0-2020%EB%85%84-%EA%B2%BD%EB%A0%A5-3%EB%85%84-3%EA%B0%9C%EC%9B%94%EC%A7%9C%EB%A6%AC%EC%9D%98-%ED%9A%8C%EA%B3%A0%EB%A1%9D-3e5cca831a48)
-- [x] [Y2021 개인 회고](https://mjspring.medium.com/y2021-%EA%B0%9C%EC%9D%B8-%ED%9A%8C%EA%B3%A0-5fae6b8d6077?p=5fae6b8d6077)
-
+- [x] [Y2021 개인 회고/Mijeong (Rachel)](https://mjspring.medium.com/y2021-%EA%B0%9C%EC%9D%B8-%ED%9A%8C%EA%B3%A0-5fae6b8d6077?p=5fae6b8d6077)
+- [x] [안드로이드 개발자의 2021년 회고/hongbeom](https://hongbeomi.medium.com/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-2021%EB%85%84-%ED%9A%8C%EA%B3%A0-79b38173127d)
+- [x] [2021년 회고 — 떠나 보내는 것과 새로 맞이하는 것/Jung-Hyun Nam](https://cloudeveloper.net/2021%EB%85%84-%ED%9A%8C%EA%B3%A0-%EB%96%A0%EB%82%98-%EB%B3%B4%EB%82%B4%EB%8A%94-%EA%B2%83%EA%B3%BC-%EC%83%88%EB%A1%9C-%EB%A7%9E%EC%9D%B4%ED%95%98%EB%8A%94-%EA%B2%83-a6a4adef761e)
+- [x] [2021년 회고/Hong JongPyo](https://honor-driven.dev/2021%EB%85%84-%ED%9A%8C%EA%B3%A0-144643540bba)
+- [x] [2021년 회고/2021년 회고](https://medium.com/h-document/2021%EB%85%84-%ED%9A%8C%EA%B3%A0-1e50c1c73760)
 
 ### Tistory
 - [x] [2021년 회고―, 성찰/정상우](https://pronist.tistory.com/159)
