@@ -15,7 +15,7 @@
 - [x] [안드로이드 개발자의 2021년 회고/hongbeom](https://hongbeomi.medium.com/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-2021%EB%85%84-%ED%9A%8C%EA%B3%A0-79b38173127d)
 - [x] [2021년 회고 — 떠나 보내는 것과 새로 맞이하는 것/Jung-Hyun Nam](https://cloudeveloper.net/2021%EB%85%84-%ED%9A%8C%EA%B3%A0-%EB%96%A0%EB%82%98-%EB%B3%B4%EB%82%B4%EB%8A%94-%EA%B2%83%EA%B3%BC-%EC%83%88%EB%A1%9C-%EB%A7%9E%EC%9D%B4%ED%95%98%EB%8A%94-%EA%B2%83-a6a4adef761e)
 - [x] [2021년 회고/Hong JongPyo](https://honor-driven.dev/2021%EB%85%84-%ED%9A%8C%EA%B3%A0-144643540bba)
-- [x] [2021년 회고/2021년 회고](https://medium.com/h-document/2021%EB%85%84-%ED%9A%8C%EA%B3%A0-1e50c1c73760)
+- [x] [2021년 회고/Document.H](https://medium.com/h-document/2021%EB%85%84-%ED%9A%8C%EA%B3%A0-1e50c1c73760)
 
 ### Tistory
 - [x] [2021년 회고―, 성찰/정상우](https://pronist.tistory.com/159)
