@@ -26,6 +26,10 @@
 - [x] [1년차 개발자 2021년 회고 - 개발 & 일상 그리고 감사/minyul](https://velog.io/@minyul/2021%EB%85%84-%ED%9A%8C%EA%B3%A0)
 - [x] [2021년 회고/janeljs](https://velog.io/@janeljs/2021%EB%85%84-%ED%9A%8C%EA%B3%A0)
 - [x] [스타트업 1년차 개발자의 첫 프로젝트 회고/tkrhkaos12](https://velog.io/@tkrhkaos12/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-1%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
+- [x] [[회고록] 2021년을 돌아보며/haero_kim](https://velog.io/@haero_kim/%ED%9A%8C%EA%B3%A0%EB%A1%9D-2021%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0)
+- [x] [2021 회고록/yulhee741](https://velog.io/@yulhee741/2021-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
+- [x] [[회고] 2년차 주니어개발자 2021년 회고](https://velog.io/@kimyeji203/%ED%9A%8C%EA%B3%A0-2%EB%85%84%EC%B0%A8-%EC%A3%BC%EB%8B%88%EC%96%B4%EA%B0%9C%EB%B0%9C%EC%9E%90-2021%EB%85%84-%ED%9A%8C%EA%B3%A0)
+- [x] [2년차 개발자가 처음 써보는 회고록 - 2021/w-beom](https://velog.io/@w-beom/1.5%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%B2%98%EC%9D%8C-%EC%8D%A8%EB%B3%B4%EB%8A%94-%ED%9A%8C%EA%B3%A0%EB%A1%9D-2021)
 
 ### Brunch
 - [x] [흑호의 해, 더 성장하기 위한 21년 회고/FameLee](https://brunch.co.kr/@famelee/51)
