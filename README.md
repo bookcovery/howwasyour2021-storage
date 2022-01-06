@@ -25,6 +25,8 @@
 - [x] [2021년 회고록/yeongun](https://yeongunheo.tistory.com/entry/%F0%9F%92%BB2021%EB%85%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 - [x] [2021년 회고와 2022년 다짐/ZeddiOS](https://zeddios.tistory.com/1330)
 - [x] [2021 회고/냄수](https://nsios.tistory.com/172)
+- [x] [2021년 회고/Junior Lob!](https://lob-dev.tistory.com/entry/2021%EB%85%84-%ED%9A%8C%EA%B3%A0)
+- [] [2021 회고/Zereight](https://zereight.tistory.com/1147)
 
 ### Velog
 - [x] [1년차 주니어 프론트 개발자 이직 후기/ohaeseong](https://velog.io/@ohaeseong/1%EB%85%84%EC%B0%A8-%EC%A3%BC%EB%8B%88%EC%96%B4-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81-%ED%9B%84%EA%B8%B0)
@@ -59,4 +61,3 @@
 - [x] [2021년 회고/SOOHWAN KIM](https://sooftware.io/2021)
 - [x] [체대 출신 개발자의 2021년 회고/Integerous](https://ryan-han.com/post/memoirs/memoirs2021/)
 - [x] [2021년 회고 및 요즘 생각들/zzsza](https://zzsza.github.io/)
-- [x] [2021년 회고 및 요즘 생각들/어쩐지 오늘은](https://zzsza.github.io/diary/2021/12/26/2021-retrospective/)
