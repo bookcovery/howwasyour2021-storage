@@ -40,6 +40,9 @@
 - [x] [흑호의 해, 더 성장하기 위한 21년 회고/FameLee](https://brunch.co.kr/@famelee/51)
 - [x] [퇴사 1년,N잡으로 얼마를 벌었고 얼마나 만족하는가?/일재미](https://brunch.co.kr/@dailylifefun/27)
 - [x] [보고 생각하고 기록하다/김지윤](https://brunch.co.kr/@outlines/60)
+- [x] [2021년 회고 - 퇴사, 이직, 적응/roseline](https://brunch.co.kr/@roseline/29)
+- [x] [2021년에 내가 배운 것들/알벗](https://brunch.co.kr/@albertlee12uqzv/38)
+- [x] [연말결산, 독립꾼의 2021/왕태일](https://brunch.co.kr/@theking/20)
 
 ### Blog 
 - [x] [2021년 회고/John Grib](https://johngrib.github.io/wiki/review/2021/)
