@@ -45,6 +45,7 @@
 - [x] [연말결산, 독립꾼의 2021/왕태일](https://brunch.co.kr/@theking/20)
 - [x] [2년 차 개발자의 조금 늦은 2021년 회고/swimjiy](https://brunch.co.kr/@swimjiy/38)
 - [x] [2021년 회고/유진초이](https://brunch.co.kr/@eugeen/5)
+- [x] [2021 회고 - 발산의 해/기록의 것들](https://brunch.co.kr/@billower/21)
 
 ### Blog 
 - [x] [2021년 회고/John Grib](https://johngrib.github.io/wiki/review/2021/)
@@ -55,3 +56,4 @@
 - [x] [주니어 개발자의 2021년 회고/개발자 황준일](https://junilhwang.github.io/TIL/Review/2021-year/end/)
 - [x] [2021년 회고/SOOHWAN KIM](https://sooftware.io/2021)
 - [x] [체대 출신 개발자의 2021년 회고/Integerous](https://ryan-han.com/post/memoirs/memoirs2021/)
+- [x] [2021년 회고 및 요즘 생각들/zzsza](https://zzsza.github.io/)
