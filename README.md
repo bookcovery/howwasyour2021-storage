@@ -43,6 +43,8 @@
 - [x] [2021년 회고 - 퇴사, 이직, 적응/roseline](https://brunch.co.kr/@roseline/29)
 - [x] [2021년에 내가 배운 것들/알벗](https://brunch.co.kr/@albertlee12uqzv/38)
 - [x] [연말결산, 독립꾼의 2021/왕태일](https://brunch.co.kr/@theking/20)
+- [x] [2년 차 개발자의 조금 늦은 2021년 회고/swimjiy](https://brunch.co.kr/@swimjiy/38)
+- [x] [2021년 회고/유진초이](https://brunch.co.kr/@eugeen/5)
 
 ### Blog 
 - [x] [2021년 회고/John Grib](https://johngrib.github.io/wiki/review/2021/)
