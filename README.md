@@ -27,6 +27,8 @@
 - [x] [2021 회고/냄수](https://nsios.tistory.com/172)
 - [x] [2021년 회고/Junior Lob!](https://lob-dev.tistory.com/entry/2021%EB%85%84-%ED%9A%8C%EA%B3%A0)
 - [x] [2021 회고/Zereight](https://zereight.tistory.com/1147)
+- [x] [2021 회고 - 2022 계획/wood.forest](https://woodforest.tistory.com/851)
+- [x] [한 개발자(?)의 2021년 회고/사라이](https://saranf-click.tistory.com/29?category=871408)
 
 ### Velog
 - [x] [1년차 주니어 프론트 개발자 이직 후기/ohaeseong](https://velog.io/@ohaeseong/1%EB%85%84%EC%B0%A8-%EC%A3%BC%EB%8B%88%EC%96%B4-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81-%ED%9B%84%EA%B8%B0)
@@ -62,3 +64,4 @@
 - [x] [체대 출신 개발자의 2021년 회고/Integerous](https://ryan-han.com/post/memoirs/memoirs2021/)
 - [x] [2021년 회고 및 요즘 생각들/zzsza](https://zzsza.github.io/)
 - [x] [2021 회고/RoyJung](https://roy-jung.github.io/211231-review-2021/)
+- [x] [2021년 회고/](https://kimtoma.com/2021/12/31/retrospective-2021/)
