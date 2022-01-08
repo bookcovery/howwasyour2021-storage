@@ -61,3 +61,4 @@
 - [x] [2021년 회고/SOOHWAN KIM](https://sooftware.io/2021)
 - [x] [체대 출신 개발자의 2021년 회고/Integerous](https://ryan-han.com/post/memoirs/memoirs2021/)
 - [x] [2021년 회고 및 요즘 생각들/zzsza](https://zzsza.github.io/)
+- [x] [2021 회고/RoyJung](https://roy-jung.github.io/211231-review-2021/)
