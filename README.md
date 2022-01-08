@@ -41,6 +41,7 @@
 - [x] [2021 회고록/yulhee741](https://velog.io/@yulhee741/2021-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 - [x] [[회고] 2년차 주니어개발자 2021년 회고](https://velog.io/@kimyeji203/%ED%9A%8C%EA%B3%A0-2%EB%85%84%EC%B0%A8-%EC%A3%BC%EB%8B%88%EC%96%B4%EA%B0%9C%EB%B0%9C%EC%9E%90-2021%EB%85%84-%ED%9A%8C%EA%B3%A0)
 - [x] [2년차 개발자가 처음 써보는 회고록 - 2021/w-beom](https://velog.io/@w-beom/1.5%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%B2%98%EC%9D%8C-%EC%8D%A8%EB%B3%B4%EB%8A%94-%ED%9A%8C%EA%B3%A0%EB%A1%9D-2021)
+- [x] [2021 회고/yl9517](https://velog.io/@yl9517/2021-%ED%9A%8C%EA%B3%A0) 
 
 ### Brunch
 - [x] [흑호의 해, 더 성장하기 위한 21년 회고/FameLee](https://brunch.co.kr/@famelee/51)
