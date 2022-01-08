@@ -67,3 +67,4 @@
 - [x] [2021년 회고 및 요즘 생각들/zzsza](https://zzsza.github.io/)
 - [x] [2021 회고/RoyJung](https://roy-jung.github.io/211231-review-2021/)
 - [x] [2021년 회고/](https://kimtoma.com/2021/12/31/retrospective-2021/)
+- [x] [2021년 블로그 결산 및 회고/zerocho](https://www.zerocho.com/category/etc/post/61d064b6a7f9490004dd9358)
