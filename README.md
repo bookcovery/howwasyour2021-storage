@@ -4,7 +4,7 @@
 </p>
 <p align="center" style="font-size: 1.2rem;">2021년 회고 저장소입니다</p>
 
-> 2021년 회고를 보고싶다면 🚀 [howwasyour2021.com](https://howwasyour2021.com)
+> 2021년 회고를 보고 싶다면 🚀 [howwasyour2021.com](https://howwasyour2021.com)
 
 ### Medium
 - [x] [2021년을 돌아보며/조은, John Cho](https://euncho.medium.com/2021%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0-58c1bf88b44b)
