@@ -15,6 +15,7 @@
 - [x] [2021년 회고 — 떠나 보내는 것과 새로 맞이하는 것/Jung-Hyun Nam](https://cloudeveloper.net/2021%EB%85%84-%ED%9A%8C%EA%B3%A0-%EB%96%A0%EB%82%98-%EB%B3%B4%EB%82%B4%EB%8A%94-%EA%B2%83%EA%B3%BC-%EC%83%88%EB%A1%9C-%EB%A7%9E%EC%9D%B4%ED%95%98%EB%8A%94-%EA%B2%83-a6a4adef761e)
 - [x] [2021년 회고/Hong JongPyo](https://honor-driven.dev/2021%EB%85%84-%ED%9A%8C%EA%B3%A0-144643540bba)
 - [x] [2021년 회고/Document.H](https://medium.com/h-document/2021%EB%85%84-%ED%9A%8C%EA%B3%A0-1e50c1c73760)
+- [x] [2021 회고/Woosik Kim](https://well-balanced.medium.com/2021-%ED%9A%8C%EA%B3%A0-fedee5f974f5)
 
 ### Tistory
 - [x] [2021년 회고―, 성찰/정상우](https://pronist.tistory.com/159)
