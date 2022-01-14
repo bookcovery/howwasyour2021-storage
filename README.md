@@ -6,8 +6,6 @@
 
 > 2021년 회고를 보고 싶다면 🚀 [howwasyour2021.com](https://howwasyour2021.com)
 
-새로운 회고를 올리시는 분들은
-
 ### Medium
 - [x] [2021년을 돌아보며/조은, John Cho](https://euncho.medium.com/2021%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0-58c1bf88b44b)
 - [x] [2021 회고/Bora Lee](https://violetboralee.medium.com/2021-%ED%9A%8C%EA%B3%A0-20616cec9f2d?p=20616cec9f2d)
