@@ -72,3 +72,4 @@
 - [x] [2021년 회고/](https://kimtoma.com/2021/12/31/retrospective-2021/)
 - [x] [2021년 블로그 결산 및 회고/zerocho](https://www.zerocho.com/category/etc/post/61d064b6a7f9490004dd9358)
 - [x] [2021년 회고(Product Owner, 가족, 성장/hudi)/JunHo Lee](https://junholee.me/2021-retrospect/)
+- [x] [Jbee.log(2021)/Jbee](https://jbee.io/essay/2021_retro/)
